@@ -1,0 +1,14 @@
+{
+  "name": "workshop-js",
+  "version": "1.0.0",
+  "description": "Solutions for functional-javascript-workshop learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "DainVerd",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.48.0"
+  }
+}
