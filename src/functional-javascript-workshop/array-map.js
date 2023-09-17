@@ -15,7 +15,6 @@ module.exports = function arrayMap(arr, fn) {
   }, []);
 };
 
-
 // OFFICIAL SOLUTION
 // // module.exports = function arrayMap(arr, fn, thisArg) {
 //     return arr.reduce(function(acc, item, index, arr) {

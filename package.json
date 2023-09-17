@@ -9,6 +9,7 @@
   "author": "DainVerd",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^8.48.0"
+    "eslint": "^8.48.0",
+    "prettier": "^3.0.3"
   }
 }
